@@ -2,7 +2,7 @@
 
 /**
  * main - Lists all the natural numbers below 1024 excluding
- * 		 numbers that are multiples of 3 or 5.
+ * nubers that are multiples of 3 or 5.
  *
  *
  * Return: Always 0.
